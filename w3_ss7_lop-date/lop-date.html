@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lop-date</title>
+</head>
+<body>
+<script>
+    let MyDate = function (day,month,year) {
+        this.day = day;
+        this.month = month;
+        this.year = year;
+    };
+    this.getDay = function () {
+        return this.getDay;
+    }
+    this.getMonth = function () {
+        return this.getMonth;
+    }
+    this.getYear = function () {
+        return this.getYear;
+    }
+    this.setDay = function (day) {
+        this.day = day;
+    }
+    this.setMonth = function (month) {
+        this.month = month;
+    }
+    this.setYear = function (year) {
+        this.year = year;
+    }
+    let date = new MyDate(14,5,2019);
+    let day = date.getDay();
+    let month = date.getMonth();
+    let year = date.getYear();
+    alert(day +"/" + month + "/" + year);
+    // date.setDay(25);
+    // date.serMonth(5);
+    // date.setYear(2019);
+    // alert(day + "/" + month + "/" + year);
+</script>
+</body>
+</html>

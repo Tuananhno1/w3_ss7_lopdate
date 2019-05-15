@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hienthikq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/if_else" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/if_else_if" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/khaibaobien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/namnhuan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sudungtoantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sukienbanphim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sukienchuot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switch_case" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/toantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_carosimple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_daomang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_dowhile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_for" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_laplongnhau" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_ss5_th2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_ss6_th3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_taomang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_taovagoiham" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_timgiatri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_timptmax" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2_while" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w3_ss7_funny-circle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w3_ss7_lophinhtron" vcs="Git" />
+  </component>
+</project>
